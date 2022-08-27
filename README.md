@@ -3,7 +3,7 @@ Hi 👋. I am Arshad Mohammad Bahadur, working as a Software Engineer for 3+ yea
 Having a passion to explore new technologies and stuffs, I mostly develop Web Apllications using Java EE, Spring and JavaScript.
 
 - 👀 I’m interested in developing Web Application using Java EE and JavaScript technologies
-- 🌱 I’m currently learning ShellScript to manage linux server.
+- 🌱 I’m currently Exploring Elasticsearch.
 - 💞️ I’m looking to collaborate on Spring, Spring Boot, and JavaScript projects.
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/arshad-mohammad-bahadur-124a18136/
 
